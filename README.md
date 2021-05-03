@@ -10,7 +10,7 @@
 <br>
 
 # CRUD com PDO
-O PDO (PHP Data Object) é uma extensão para o acesso a banco de dados, além de ser totalmente orientado a objetos, o que nós dá várias funcionalidades prontas para uso no que se trata de conexão e persistência de dados.
+O PDO (PHP Data Object) é uma extensão do PHP para o acesso a banco de dados, além de ser totalmente orientado a objetos, o que nós dá várias funcionalidades prontas para uso no que se trata de conexão e persistência de dados.
 Utilizando o PDO, temos a rápida e simples manipulação do CRUD, otimizando o tempo para o que realmente importa.
 
 
