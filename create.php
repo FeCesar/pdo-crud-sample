@@ -2,7 +2,7 @@
 
     try{
 
-        # Inicia a Conexão
+        # Inicia a Conexão com o Banco de Dados
         $conn = new PDO('mysql:host=localhost;dbname=teste;', 'root', '');
 
         # Cria a Query SQL com a criação de variáveis -> :nome / :idade / :email
