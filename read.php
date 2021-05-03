@@ -8,7 +8,7 @@
         # Cria a Query SQL
         $stmt = $conn->query("SELECT * FROM funcionario");
         
-        # Cria um looping mostrando os dados do banco até o fim dos resgistros
+        # Cria um Looping Mostrando os Dados do Banco até o fim dos Resgistros
         while($funcionario = $stmt->fetch(PDO::FETCH_ASSOC)){
             echo "ID: $funcionario['id'] <br>";
             echo "NOME: $funcionario['nome'] <br>"; 
